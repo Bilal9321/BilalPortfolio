@@ -618,7 +618,7 @@ h1 {
 
 /* ================Contact Fomr====================== */
 
-#message{
+#message, #name, #email{
     color: black;
 }
 
